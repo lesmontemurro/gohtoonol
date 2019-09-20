@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://viemeeshae.jonothankh.com/sitemap.xml
